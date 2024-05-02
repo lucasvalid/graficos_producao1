@@ -1,5 +1,13 @@
+body{
+    display: flex;
+}
+
 img{
     display: flex;
     max-width: 40rem;
     padding: 3rem;
+}
+img:hover{
+    scale: 1.05;
+    transition-duration: 0.5s;
 }
