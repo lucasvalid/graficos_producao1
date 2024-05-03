@@ -1,11 +1,12 @@
 body{
     display: flex;
+    background-color: #eaf5f4;
 }
 
 img{
     display: flex;
     max-width: 40rem;
-    padding: 3rem;
+    padding: 1rem;
 }
 img:hover{
     scale: 1.05;
